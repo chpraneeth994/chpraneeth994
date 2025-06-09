@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hey there, I’m Praneeth
 
-<!--
-**chpraneeth994/chpraneeth994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently a second-year student at Amrita University, Bangalore, passionate about diving deep into the world of tech and code. I’ve just wrapped up my first year — and with it, the foundation of a journey filled with curiosity and creativity!
 
-Here are some ideas to get you started:
+🧠 Always learning. Always building.
+I've completed two Google-authorized Coursera courses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ✔️ Crash Course on Python
+
+    ✔️ Using Python to Interact with the Operating System
+
+💻 Currently sharpening my skills in Data Structures & Algorithms, I love solving problems and exploring how code connects to real-world logic.
+
+🚀 Whether it's writing clean Python, debugging with determination, or exploring new frameworks, I’m always up for a challenge.
