@@ -1,6 +1,6 @@
 👋 Hey there, I’m Praneeth
 
-🎓 I’m currently a second-year student at Amrita University, Bangalore, passionate about diving deep into the world of tech and code. I’ve just wrapped up my first year — and with it, the foundation of a journey filled with curiosity and creativity!
+🎓 I’m currently a third-year student at Amrita University, Bangalore, passionate about diving deep into the world of tech and code. I’ve just wrapped up my first year — and with it, the foundation of a journey filled with curiosity and creativity!
 
 🧠 Always learning. Always building.
 I've completed two Google-authorized Coursera courses:
